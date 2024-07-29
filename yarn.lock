@@ -5949,16 +5949,16 @@ dns-packet@^5.2.2:
     "@leichtgewicht/ip-codec" "^2.0.1"
 
 docslab-docusaurus@^0.2.7:
-  version "0.2.7"
-  resolved "https://registry.yarnpkg.com/docslab-docusaurus/-/docslab-docusaurus-0.2.7.tgz#5a43fb9da3e976489cdcc2d71a0eec2857e973b6"
-  integrity sha512-l2Kl4JXTBVdrhMR6+0zg+NOvdk6AiYMMCEHAReV5/GA8Rh0PMaKXF41FJqXDE78vRROEY8dvfIFGpj1lpqlqNA==
+  version "0.2.9"
+  resolved "https://registry.yarnpkg.com/docslab-docusaurus/-/docslab-docusaurus-0.2.9.tgz#f020702d29552c351a8d1bd4cb4c881e3b576fd4"
+  integrity sha512-jqTwTDaJ7Kp+yXD3+JvvDg53io5XgdcLMEqEP9zVKxarBOpMluVbWUOgilGdceyiMdX5SBzRvreG68yMJuZspQ==
   dependencies:
-    docslab "^0.3.7"
+    docslab "^0.3.12"
 
-docslab@^0.3.7:
-  version "0.3.9"
-  resolved "https://registry.yarnpkg.com/docslab/-/docslab-0.3.9.tgz#0226edc6b379f8340177e4bd928d081d2f18148c"
-  integrity sha512-mqQNwWkozbUzgNf24K2iyHvmdDDQS2YWKzOoHyqh9bsCXSqjMzwCPO9KO0nbI1DvZg5uiAOn5+PGO7aeGCmJMA==
+docslab@^0.3.12:
+  version "0.3.12"
+  resolved "https://registry.yarnpkg.com/docslab/-/docslab-0.3.12.tgz#fb7ec65e2b77a9f1f61b4c1125c275adffd32abd"
+  integrity sha512-+E6AqnrCHlUsjPfatNk3vMEdXPbn30IpQsMU0eX5kMENtcLERja/YgKBJarm32gpOUqejn9mhby7Sk8/KijDsA==
   dependencies:
     ace-code "^1.23.4"
     xterm "^5.2.1"
